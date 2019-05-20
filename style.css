@@ -1,0 +1,21 @@
+body{
+    background: yellow;
+}
+
+/*b, i{
+    color: tan;
+}*/
+
+* {
+    color: firebrick;
+}
+.block{
+    width: 600px;
+}
+.color-red{
+    color: red;
+}
+
+#helloBlock{
+    color: white;
+}
